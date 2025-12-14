@@ -1,0 +1,5 @@
+{
+  "name": "SmartSnap Gallery",
+  "description": "A secure local image database with AI-powered auto-tagging and description using Gemini Vision capabilities.",
+  "requestFramePermissions": []
+}
